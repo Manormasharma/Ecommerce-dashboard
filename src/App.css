@@ -1,0 +1,11 @@
+.register-box{
+    min-height: 400px;
+    width: 450px;
+}
+.login-box{
+    min-height: 350px;
+    width: 450px;
+}
+.navbar-brand img{
+    width: 60%;
+}
